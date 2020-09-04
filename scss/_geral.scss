@@ -3,7 +3,7 @@ body {
   border: 10px solid $bege-medio;
   color: $cinza;
   @include d(s){
-    boder:none;
+    border:none;
   }
 }
 
